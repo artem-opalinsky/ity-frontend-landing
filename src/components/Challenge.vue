@@ -101,13 +101,6 @@ export default {
   margin-right: 0.2rem;
 }
 
-.description{
-  color: grey;
-  margin: 0.2rem;
-  font-size: 0.8rem;
-  width: auto;
-}
-
 .center{
   display: flex;
   justify-content: center;
