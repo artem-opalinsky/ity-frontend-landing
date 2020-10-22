@@ -14,7 +14,9 @@
       </b-row>
       <b-row>
         <b-col class="video-card">
-          <div class="challenger-video"></div>
+          <div class="challenger-video"
+
+          ></div>
           <div class="challengee-video"></div>
         </b-col>
       </b-row>
